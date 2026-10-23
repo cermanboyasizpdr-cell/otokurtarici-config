@@ -1,6 +1,9 @@
 {
-  "latestVersion": "1.0.6",
+{
+  "latestVersion": "1.0.7",
+  "minRequiredVersion": "1.0.7",
   "forceUpdate": false,
-  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.otokurtarici.sim",
-  "updateMessage": "Yeni özellikler ve iyileştirmeler için oyunu güncelle."
+  "title": "Yeni Güncelleme Mevcut! (v1.0.7)",
+  "notes": "• P-R-N-D gerçekçi vites konsolu eklendi\n• Kabin tavan lambası ve gece yol aydınlatmaları güçlendirildi\n• Online 3B karakterler, tam boy plaka yazısı ve bağlantı iyileştirmeleri yapıldı",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.otokurtarici.sim"
 }
