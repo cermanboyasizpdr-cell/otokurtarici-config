@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.7",
-  "forceUpdate": true,
+  "latestVersion": "1.0.8",
+  "forceUpdate": false,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.otokurtarici.sim",
-  "updateMessage": "• Gerçekçi P-R-N-D otomatik vites konsolu eklendi.\n• Kabin tavan lambası ve güçlü gece yol aydınlatmaları eklendi.\n• Online 3B karakterler, tam boy plaka yazısı ve korna düzeltmesi yapıldı."
+  "updateMessage": "• Online modda takılı kalan korna sorunu tamamen düzeltildi.\n• Gerçekçi P-R-N-D otomatik vites konsolu ve kabin tavan lambası eklendi.\n• Online 3B operatör karakterleri ve tam boy plaka yazıları eklendi."
 }
